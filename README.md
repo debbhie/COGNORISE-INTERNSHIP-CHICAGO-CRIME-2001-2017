@@ -75,6 +75,9 @@ The crime data analysis spans from 2001 to 2017, with a total of 7,941,282 crime
 * Motor Vehicle Theft (370,547 incidents) is a significant crime, though less common than burglary. This indicates a substantial problem with vehicle security in the area. Law enforcement could focus on improving vehicle theft prevention strategies and increasing public awareness about protective measures.
 * Robbery (300,449 incidents) which involves taking property from a person by force or threat, is a notable crime. The occurrence of robbery suggests the need for better personal security measures, especially in high-risk areas. It also indicates the potential presence of organized crime or desperate individuals turning to robbery.
 * Deceptive Practice (279,693 incidents) including fraud and other forms of deceit, round out the top ten. The relatively high incidence of fraud-related crimes points to issues in financial security, both online and offline. This calls for stronger consumer protection laws and awareness campaigns to prevent people from falling victim to such crimes.
+Visualization of incident by primary type
+![incident by primary type](https://github.com/user-attachments/assets/d32d7f07-2ba8-4bf6-a09d-0fccb1c80487)
+![primary type visuals](https://github.com/user-attachments/assets/414b1d9f-c7f3-4865-8678-030a20168c1a)
 
 ### Top 10 crime incident yearly by Location: 
 -  High-Risk Locations:
