@@ -11,7 +11,7 @@
 - [DATA PROCESSING](#data-processing)
 - [DATA ANALYSIS](#data-analysis)
 - [INSIGHTS](#insights)
--[RECOMMENDATIONS](#recommendation)
+- [RECOMMENDATIONS](#recommendation)
 
 ## CHICAGO CRIMES 2001 TO 2017 ANALYSIS OVERVIEW
 The analysis of crime data from Chicago between 2001 and 2017 reveals significant trends and patterns in criminal activities over the 17-year period. The dataset contains a total of 7,941,282 recorded crime incidents, spanning various types of crimes, locations, and outcomes.
