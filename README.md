@@ -20,7 +20,7 @@ The analysis of crime data from Chicago between 2001 and 2017 reveals significan
 
 ## DATA SOURCE
 This dataset is from cognorise internship
--[download here]()
+-[download here](https://www.kaggle.com/datasets/currie32/crimes-in-chicago)
 
 ## TOOLS
 - Analysis - Jupyter notebook
@@ -131,4 +131,17 @@ Possible Implications: The lack of a strong relationship could indicate that arr
 * Law Enforcement Efficiency: The overall arrest rate of 28% suggests room for improvement in law enforcement’s ability to apprehend suspects. This could be due to various factors, including the nature of the crimes, the resources available, and the cooperation of the community.
 * Community and Policy Implications: These figures suggest a need for policies that enhance law enforcement capabilities, particularly in handling domestic violence cases, and community programs that aim to prevent crime and support victims more effectively.
 * Public vs. Private Crime Locations: The data shows a significant distribution of crimes across both public (streets, sidewalks) and private (residences, apartments) locations. Public spaces, especially streets, are the most frequent crime locations, but residential areas also see a substantial share of criminal activity.
+
+
 ## RECOMMENDATION
+* Enhanced Security Measures: Given the high rates of theft and burglary, there should be a focus on improving security in vulnerable areas. This could include increased police patrols, neighborhood watch programs, and public education on property protection.
+* Drug Enforcement and Rehabilitation: The large number of narcotics incidents indicates the need for a dual approach of strict drug law enforcement combined with accessible rehabilitation services to address the root causes of drug-related crimes.
+* Financial Crime Awareness: To combat deceptive practices, there should be stronger public education campaigns on fraud prevention, along with tighter regulations on financial transactions and online security.
+* Improve Investigative Techniques: Investing in training, technology, and community policing strategies could help increase the arrest rate, particularly in areas with high unsolved crime rates.
+* Streets and Sidewalks: Deploy more law enforcement officers in high-crime public areas to act as a deterrent.
+* Residential Patrols: Implement regular patrols in residential areas, especially in neighborhoods with high crime rates.
+* Schools and Public Buildings: Ensure these locations are equipped with adequate security personnel and systems to maintain safety.
+* Policy Development: Policies aimed at reducing crime should consider the high variability in arrest rates and domestic-related incidents. Specific measures for high-risk groups and regions may be more effective than broad, one-size-fits-all approaches.
+
+
+
