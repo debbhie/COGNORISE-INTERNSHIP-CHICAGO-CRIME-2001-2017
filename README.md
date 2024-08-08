@@ -115,8 +115,20 @@ The colder weather likely keeps more people indoors, reducing the opportunity fo
 * Domestic (0.334505): The standard deviation for domestic-related incidents is approximately 0.33, suggesting moderate variability. While the majority of cases are not domestic-related, there is still a considerable number of domestic incidents, leading to some spread in the data.
 
 
+### Analysis of the Correlation Matrix between Arrest and Domestic Incidents:
+* Correlation Values
+Arrest and Domestic (-0.07157): The correlation coefficient between Arrest and Domestic is approximately -0.07157. This negative value indicates a weak inverse relationship between the two variables. In other words, as the likelihood of an incident being domestic-related increases, the likelihood of an arrest being made slightly decreases, and vice versa.However, because the value is close to zero, this correlation is weak, suggesting that there is minimal linear relationship between whether an incident is domestic-related and whether an arrest is made.
+* Interpretation
+Weak Relationship: The weak negative correlation suggests that there is little to no strong linear relationship between domestic incidents and arrests. In practical terms, this means that whether a crime is domestic-related or not does not significantly influence the likelihood of an arrest being made.
+Possible Implications: The lack of a strong relationship could indicate that arrests in domestic-related incidents are influenced by other factors not captured in this simple bivariate correlation. For example, the nature of the incident, evidence available, or the presence of legal protections in domestic situations could play more significant roles in whether an arrest is made. It may also suggest that domestic incidents are either under-reported or handled differently compared to other types of crimes, possibly due to the sensitive nature of such cases or the complexities involved in resolving them.
 
 
 ## INSIGHTS 
-
+* Crime Reduction: The significant drop in crime incidents after 2008 indicates effective crime reduction strategies, changes in law enforcement practices, or changes in data reporting methods.
+* Property Crimes Dominate: Theft, criminal damage, burglary, and motor vehicle theft are all property-related crimes that together make up a significant portion of the top 10. This indicates a pressing need for better property protection measures.
+* High Levels of Violence: Battery and assault are major concerns, reflecting the need for interventions to reduce violence in the community.
+* Narcotics as a Root Cause: The high incidence of narcotics-related crimes suggests that drug issues may be a driving factor behind many of the other crimes, such as theft and violent crimes.
+* Law Enforcement Efficiency: The overall arrest rate of 28% suggests room for improvement in law enforcement’s ability to apprehend suspects. This could be due to various factors, including the nature of the crimes, the resources available, and the cooperation of the community.
+* Community and Policy Implications: These figures suggest a need for policies that enhance law enforcement capabilities, particularly in handling domestic violence cases, and community programs that aim to prevent crime and support victims more effectively.
+* Public vs. Private Crime Locations: The data shows a significant distribution of crimes across both public (streets, sidewalks) and private (residences, apartments) locations. Public spaces, especially streets, are the most frequent crime locations, but residential areas also see a substantial share of criminal activity.
 ## RECOMMENDATION
