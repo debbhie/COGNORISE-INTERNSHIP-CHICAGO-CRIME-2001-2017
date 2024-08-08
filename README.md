@@ -1,9 +1,21 @@
 # CHICAGO CRIMES 2001 TO 2017
 
 ## TABLE OF CONTENT
+- [CHICAGO CRIMES 2001 TO 2017 ANALYSIS OVERVIEW](#chicago-crimes-2001-to-2017-analysis-overview)
+- [LANDING PAGE](#landing-page)
+- [DATA SOURCE](#data-soure=ce)
+- [TOOLS](#tools)
+- [TYPES OF ANALYSIS USED FOR THIS PROJECT](#types-of-analysis-used-for-this-project)
+- [KEY PERFORMANCE INDICATORS](#key-performance-indicators)
+- [DATA CLEANING](#data-cleaning)
+- [DATA PROCESSING](#data-processing)
+- [DATA ANALYSIS](#data-analysis)
+- [INSIGHTS](#insights)
+-[RECOMMENDATIONS](#recommendation)
 
 ## CHICAGO CRIMES 2001 TO 2017 ANALYSIS OVERVIEW
 The analysis of crime data from Chicago between 2001 and 2017 reveals significant trends and patterns in criminal activities over the 17-year period. The dataset contains a total of 7,941,282 recorded crime incidents, spanning various types of crimes, locations, and outcomes.
+
 ## LANDING PAGE
 * ID: Unique identifier for record.
 * CASE NUMBER: The chicago police department RD number (Record Division Number), which is unique to the incident.
@@ -133,7 +145,7 @@ Possible Implications: The lack of a strong relationship could indicate that arr
 * Public vs. Private Crime Locations: The data shows a significant distribution of crimes across both public (streets, sidewalks) and private (residences, apartments) locations. Public spaces, especially streets, are the most frequent crime locations, but residential areas also see a substantial share of criminal activity.
 
 
-## RECOMMENDATION
+## RECOMMENDATIONS
 * Enhanced Security Measures: Given the high rates of theft and burglary, there should be a focus on improving security in vulnerable areas. This could include increased police patrols, neighborhood watch programs, and public education on property protection.
 * Drug Enforcement and Rehabilitation: The large number of narcotics incidents indicates the need for a dual approach of strict drug law enforcement combined with accessible rehabilitation services to address the root causes of drug-related crimes.
 * Financial Crime Awareness: To combat deceptive practices, there should be stronger public education campaigns on fraud prevention, along with tighter regulations on financial transactions and online security.
