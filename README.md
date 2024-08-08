@@ -86,19 +86,33 @@ The crime data analysis spans from 2001 to 2017, with a total of 7,941,282 crime
 * Proportion of Arrest to Non-Arrest is 28% of the incidents resulted in arrests while Non-Arrests is 72% of the incidents did not result in arrests, with 5,691,862 cases falling into this category.
 * Domestic-Related Incidents, the data shows that 12.84% of the total incidents are domestic-related. This means approximately 1,019,086 of the incidents are related to domestic violence or disputes.
 
-## Yearly Trend Analysis:
+### Yearly Trend Analysis:
 * Peak Crime Years (2006-2009): 2008 recorded the highest number of incidents (852,053), followed by 2006 (794,684) and 2009 (783,900).This period saw a sharp increase in crime, peaking in 2008.
 * Declining Trend Post-2008: After 2008, there is a noticeable decline in the number of reported incidents. By 2011, the number of incidents dropped significantly to 352,066—a decrease of more than 50% compared to 2008. This downward trend continues through 2017.
 * Lowest Crime Year: 2017 recorded the lowest number of incidents, with only 11,357 reported. This sharp decline suggests a substantial change in crime reporting or actual crime reduction.
 * Stability and Minor Fluctuations: From 2012 to 2016, the incident numbers remained relatively stable, fluctuating between 262,995 and 335,670 incidents per year.
 This period shows a consistent but gradual decrease in crime incidents.
 
-## Seasonal Crime incidents:
+### Seasonal Crime incidents:
 * Summer (June to August) has the highest number of crime incidents, with a total of 2,167,238 incidents. The increase in crime during the summer months could be attributed to warmer weather, which often results in more outdoor activities and, consequently, more opportunities for crimes such as thefts, assaults, and public disturbances.
 * Spring (March to May) follows with 2,019,485 incidents, indicating a gradual increase in crime as the weather begins to warm up. The rise in incidents during Spring might be related to increased social interactions and events as people become more active after winter.
 * Fall (September to November) records 1,977,477 incidents, showing a slight decline from Spring but still maintaining relatively high crime rates. The transition from summer to fall may see continued outdoor activities and public events, keeping crime rates elevated.
 * Winter (December to February) has the lowest number of incidents, with 1,777,082 reported crimes.
 The colder weather likely keeps more people indoors, reducing the opportunity for certain types of crimes, such as street-level offenses.
+
+### Analysis of Statistical Values for Arrest and Domestic-Related Incidents:
+- Mean Values:
+* Arrest (0.283257): The mean value of approximately 0.28 indicates that about 28% of the crime incidents in the dataset resulted in an arrest. This aligns with the earlier finding that the arrest rate is 28.33%.
+* Domestic (0.128374): The mean value of approximately 0.13 indicates that around 13% of crime incidents are domestic-related. This suggests that domestic violence or disputes form a significant portion of the total crime incidents, but still a minority.
+- Median Values:
+* Arrest (0.0): The median value of 0 indicates that the majority of incidents did not result in an arrest. This is because more than half of the data points are non-arrest cases, highlighting that arrests are not the outcome in most crime incidents.
+* Domestic (0.0): Similarly, the median value for domestic-related incidents is 0, indicating that in more than half of the cases, the crimes are not domestic in nature.
+- Mode Values:
+* Arrest (False): The mode value for arrest being False (or 0) confirms that the most frequent outcome in the dataset is that no arrest was made. This reiterates the point that arrests are less common than non-arrests.
+* Domestic (False):The mode value for domestic-related incidents being False indicates that the most common scenario is a crime that is not domestic-related.
+- Standard Deviation Values:
+* Arrest (0.450580): The standard deviation of approximately 0.45 indicates that there is significant variability in the arrest data. This means that while a sizable portion of incidents do result in arrests, the presence of many incidents without arrests creates a wide spread in the data.
+* Domestic (0.334505): The standard deviation for domestic-related incidents is approximately 0.33, suggesting moderate variability. While the majority of cases are not domestic-related, there is still a considerable number of domestic incidents, leading to some spread in the data.
 
 
 
