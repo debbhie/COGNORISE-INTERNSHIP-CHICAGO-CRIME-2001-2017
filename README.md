@@ -80,6 +80,29 @@ The crime data analysis spans from 2001 to 2017, with a total of 7,941,282 crime
 * School, Public Building (173,750 incidents) While these are generally safer spaces, the presence of crimes here indicates issues such as vandalism, bullying, or drug-related incidents within or near school premises. Ensuring a safe environment in schools and public buildings through security personnel, student programs, and anti-drug initiatives is crucial.
 * Residence Garage (158,550 incidents) particularly in residential areas, are often targets for theft or vandalism. Reinforcing garage security, such as installing better locks and security cameras, could mitigate risks.
 * Residence Porch/Hallway (138,492 incidents) Porches and hallways, as entry points to residences, are vulnerable to crimes such as burglary, package theft, or even physical assaults. Enhancing visibility, security measures, and community vigilance around these entry points can help deter potential crimes.
+
+### Analysis of Arrests and Domestic-Related Crime Incidents:
+* Arrest Rates, the data indicates that 28.33% of all crime incidents resulted in an arrest, meaning that out of the 7,941,282 total incidents, 2,249,420 led to arrests.
+* Proportion of Arrest to Non-Arrest is 28% of the incidents resulted in arrests while Non-Arrests is 72% of the incidents did not result in arrests, with 5,691,862 cases falling into this category.
+* Domestic-Related Incidents, the data shows that 12.84% of the total incidents are domestic-related. This means approximately 1,019,086 of the incidents are related to domestic violence or disputes.
+
+## Yearly Trend Analysis:
+* Peak Crime Years (2006-2009): 2008 recorded the highest number of incidents (852,053), followed by 2006 (794,684) and 2009 (783,900).This period saw a sharp increase in crime, peaking in 2008.
+* Declining Trend Post-2008: After 2008, there is a noticeable decline in the number of reported incidents. By 2011, the number of incidents dropped significantly to 352,066—a decrease of more than 50% compared to 2008. This downward trend continues through 2017.
+* Lowest Crime Year: 2017 recorded the lowest number of incidents, with only 11,357 reported. This sharp decline suggests a substantial change in crime reporting or actual crime reduction.
+* Stability and Minor Fluctuations: From 2012 to 2016, the incident numbers remained relatively stable, fluctuating between 262,995 and 335,670 incidents per year.
+This period shows a consistent but gradual decrease in crime incidents.
+
+## Seasonal Crime incidents:
+* Summer (June to August) has the highest number of crime incidents, with a total of 2,167,238 incidents. The increase in crime during the summer months could be attributed to warmer weather, which often results in more outdoor activities and, consequently, more opportunities for crimes such as thefts, assaults, and public disturbances.
+* Spring (March to May) follows with 2,019,485 incidents, indicating a gradual increase in crime as the weather begins to warm up. The rise in incidents during Spring might be related to increased social interactions and events as people become more active after winter.
+* Fall (September to November) records 1,977,477 incidents, showing a slight decline from Spring but still maintaining relatively high crime rates. The transition from summer to fall may see continued outdoor activities and public events, keeping crime rates elevated.
+* Winter (December to February) has the lowest number of incidents, with 1,777,082 reported crimes.
+The colder weather likely keeps more people indoors, reducing the opportunity for certain types of crimes, such as street-level offenses.
+
+
+
+
 ## INSIGHTS 
 
 ## RECOMMENDATION
