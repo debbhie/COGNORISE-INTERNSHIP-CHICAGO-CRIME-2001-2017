@@ -63,6 +63,10 @@ Alot of errors were corrected especially in spelling.
 ## DATA ANALYSIS
 ### Total Number of crime incidents recorded: 
 The crime data analysis spans from 2001 to 2017, with a total of 7,941,282 crime incidents recorded in Chicago. 
+visualization of total incident yearly
+![incident total yearly](https://github.com/user-attachments/assets/3ebc5b70-9554-4545-9f71-dfc652c48702)
+
+![incident total visual](https://github.com/user-attachments/assets/d7552f64-c6d1-4e6e-b368-d5018d527cd3)
 
 ### Top 10 crime incident yearly by primary type: 
 * Theft (1,639,788 incidents) is the most prevalent crime, accounting for the highest number of incidents among all categories. This high rate of theft suggests widespread issues related to property crimes. This could be driven by various factors, including economic conditions, unemployment, or inadequate security measures in both public and private spaces.
@@ -77,6 +81,7 @@ The crime data analysis spans from 2001 to 2017, with a total of 7,941,282 crime
 * Deceptive Practice (279,693 incidents) including fraud and other forms of deceit, round out the top ten. The relatively high incidence of fraud-related crimes points to issues in financial security, both online and offline. This calls for stronger consumer protection laws and awareness campaigns to prevent people from falling victim to such crimes.
 Visualization of incident by primary type
 ![incident by primary type](https://github.com/user-attachments/assets/d32d7f07-2ba8-4bf6-a09d-0fccb1c80487)
+
 ![primary type visuals](https://github.com/user-attachments/assets/414b1d9f-c7f3-4865-8678-030a20168c1a)
 
 ### Top 10 crime incident yearly by Location: 
@@ -95,11 +100,17 @@ Visualization of incident by primary type
 * School, Public Building (173,750 incidents) While these are generally safer spaces, the presence of crimes here indicates issues such as vandalism, bullying, or drug-related incidents within or near school premises. Ensuring a safe environment in schools and public buildings through security personnel, student programs, and anti-drug initiatives is crucial.
 * Residence Garage (158,550 incidents) particularly in residential areas, are often targets for theft or vandalism. Reinforcing garage security, such as installing better locks and security cameras, could mitigate risks.
 * Residence Porch/Hallway (138,492 incidents) Porches and hallways, as entry points to residences, are vulnerable to crimes such as burglary, package theft, or even physical assaults. Enhancing visibility, security measures, and community vigilance around these entry points can help deter potential crimes.
+Visualization of incident by location
+![incident by location](https://github.com/user-attachments/assets/93f84dbf-2122-4e37-876e-119e94f18d88)
+
+![location visuals](https://github.com/user-attachments/assets/087e48cc-91f2-4a82-889b-d2dbd3ef19ff)
 
 ### Analysis of Arrests and Domestic-Related Crime Incidents:
 * Arrest Rates, the data indicates that 28.33% of all crime incidents resulted in an arrest, meaning that out of the 7,941,282 total incidents, 2,249,420 led to arrests.
 * Proportion of Arrest to Non-Arrest is 28% of the incidents resulted in arrests while Non-Arrests is 72% of the incidents did not result in arrests, with 5,691,862 cases falling into this category.
 * Domestic-Related Incidents, the data shows that 12.84% of the total incidents are domestic-related. This means approximately 1,019,086 of the incidents are related to domestic violence or disputes.
+Visualization of arrest vs non arrest
+![arrest vs non arrest](https://github.com/user-attachments/assets/f273665a-e5d6-4b6c-9412-09bb867a7f60)
 
 ### Yearly Trend Analysis:
 * Peak Crime Years (2006-2009): 2008 recorded the highest number of incidents (852,053), followed by 2006 (794,684) and 2009 (783,900).This period saw a sharp increase in crime, peaking in 2008.
@@ -107,13 +118,21 @@ Visualization of incident by primary type
 * Lowest Crime Year: 2017 recorded the lowest number of incidents, with only 11,357 reported. This sharp decline suggests a substantial change in crime reporting or actual crime reduction.
 * Stability and Minor Fluctuations: From 2012 to 2016, the incident numbers remained relatively stable, fluctuating between 262,995 and 335,670 incidents per year.
 This period shows a consistent but gradual decrease in crime incidents.
+Visualization of yearly trend
+![yearly trend](https://github.com/user-attachments/assets/234f5e17-c4d0-43a7-b448-a839eafddd86)
+
+![yearly tren visuals](https://github.com/user-attachments/assets/acf3003d-f747-4f38-b624-dad65cd9ede0)
 
 ### Seasonal Crime incidents:
 * Summer (June to August) has the highest number of crime incidents, with a total of 2,167,238 incidents. The increase in crime during the summer months could be attributed to warmer weather, which often results in more outdoor activities and, consequently, more opportunities for crimes such as thefts, assaults, and public disturbances.
 * Spring (March to May) follows with 2,019,485 incidents, indicating a gradual increase in crime as the weather begins to warm up. The rise in incidents during Spring might be related to increased social interactions and events as people become more active after winter.
 * Fall (September to November) records 1,977,477 incidents, showing a slight decline from Spring but still maintaining relatively high crime rates. The transition from summer to fall may see continued outdoor activities and public events, keeping crime rates elevated.
-* Winter (December to February) has the lowest number of incidents, with 1,777,082 reported crimes.
-The colder weather likely keeps more people indoors, reducing the opportunity for certain types of crimes, such as street-level offenses.
+* Winter (December to February) has the lowest number of incidents, with 1,777,082 reported crimes. The colder weather likely keeps more people indoors, reducing the opportunity for certain types of crimes, such as street-level offenses.
+Visualization of seasonal crime incidents
+![seasonal incident visual](https://github.com/user-attachments/assets/7e93590b-67b3-4c3c-96ff-81d1d631195a)
+
+![Screenshot 2024-08-08 172239](https://github.com/user-attachments/assets/9f72d985-a83a-4114-b412-cb1fd729b2a3)
+
 
 ### Analysis of Statistical Values for Arrest and Domestic-Related Incidents:
 - Mean Values:
